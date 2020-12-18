@@ -9,6 +9,7 @@ Requirements:
 - Users must be able to create multiple todo lists
 - Users must create, delete and complete a todo item on any list
 - (Optional) Allow users to share lists with other users
+- (Bonus) Add MFA to user login
 
 Tech Requirements:
 - Use Node.js for backend, framework your choice
