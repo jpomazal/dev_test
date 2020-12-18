@@ -15,3 +15,6 @@ Tech Requirements:
 - React frontend, frameworks your choice
 - Services (DBs, etc.) via docker
 
+
+blarg!
+
